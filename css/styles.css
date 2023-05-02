@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sedgwick+Ave+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap');
+@media screen and (max-width: 1300px) {
+    /*
+    #noticias {
+        width: 90%;
+    }
+
+    #logo-noticias {
+        width: 100px;
+        height: 100px;
+    }
+*/
+    #eventos {
+        margin-left: 22px;
+    }
+
+}
+
+
+
+body {
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: linear-gradient(to right top, #051937, #004d7a, #008793, #00bf72, #a8eb12);
+}
+
+
+
+.titulo {
+    padding: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+h1 {
+    font-family: 'Bree Serif', serif;
+    color: white;
+}
+
+h5 {
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-align: center;
+
+}
+
+footer {
+    background-color: white;
+}
+
+h2 {
+       /* color: rgb(0 27 255); */
+       background: 14px black;
+       border: solid;
+       size: 50%;
+       text-align: center;
+    }
